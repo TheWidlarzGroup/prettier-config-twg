@@ -1,0 +1,15 @@
+{
+  "name": "@twg/prettier-config",
+  "version": "1.0.1",
+  "description": "A shared Prettier config",
+  "main": "index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "unknown",
+  "license": "MIT",
+  "keywords": [
+    "prettier",
+    "prettier-config"
+  ]
+}
