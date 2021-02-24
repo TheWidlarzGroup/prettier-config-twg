@@ -1,7 +1,6 @@
 # Prettier config
 
-<!--
-[![npm version](https://badge.fury.io/js/eslint-config-twg.svg)](https://badge.fury.io/js/eslint-config-twg) ![NPM downloads](https://img.shields.io/npm/dm/eslint-config-twg) [![GitHub issues](https://img.shields.io/github/issues/leonardofaria/eslint-config-twg)](https://github.com/leonardofaria/eslint-config-twg/issues) ![Code Style Prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg) [![MIT License](https://img.shields.io/badge/license-MIT-red.svg?style=flat)](https://github.com/leonardofaria/twg-ui/blob/master/LICENSE) [![Twitter Follow](https://img.shields.io/twitter/follow/WidlarzGroup?label=Follow%20on%20Twitter)](https://twitter.com/WidlarzGroup) -->
+[![npm version](https://badge.fury.io/js/prettier-config-twg.svg)](https://badge.fury.io/js/prettier-config-twg) ![NPM downloads](https://img.shields.io/npm/dm/prettier-config-twg) ![Code Style Prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg) [![MIT License](https://img.shields.io/badge/license-MIT-red.svg?style=flat)](https://github.com/TheWidlarzGroup/prettier-config-twg/blob/master/LICENSE) [![Twitter Follow](https://img.shields.io/twitter/follow/WidlarzGroup?label=Follow%20on%20Twitter)](https://twitter.com/WidlarzGroup)
 
 These are settings for Prettier.
 
