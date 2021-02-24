@@ -13,13 +13,13 @@ A shared Prettier config
 To install this package run the following command in the terminal in the root directory of your application.
 
 ```
-npm install --save-dev @twg/prettier-config
+npm install --save-dev @twgdev/prettier-config
 ```
 
 **OR**
 
 ```
-yarn add --dev @twg/prettier-config
+yarn add --dev @twgdev/prettier-config
 ```
 
 ## Usage
@@ -27,7 +27,7 @@ yarn add --dev @twg/prettier-config
 Add a key in your **package.json** file.
 
 ```
-"prettier": "@twg/prettier-config"
+"prettier": "@twgdev/prettier-config"
 ```
 
 **OR**
@@ -35,7 +35,7 @@ Add a key in your **package.json** file.
 Create a **.prettierrc** , **.prettierrc.yaml** , **.prettierrc.yml** or **.prettierrc.json** file and export a string.
 
 ```
-"@twg/prettier-config"
+"@twgdev/prettier-config"
 ```
 
 **OR**
@@ -44,7 +44,7 @@ Create a **prettier.config.js** or **.prettierrc.js** file and export an object.
 
 ```
 module.exports = {
-  ...require("@twg/prettier-config"),
+  ...require("@twgdev/prettier-config"),
   // endOfLine: 'lf', // to overwrite the property
 };
 ```

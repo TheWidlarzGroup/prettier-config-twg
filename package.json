@@ -1,6 +1,6 @@
 {
-  "name": "@twg/prettier-config",
-  "version": "1.0.0",
+  "name": "@twgdev/prettier-config",
+  "version": "1.0.1",
   "description": "A shared Prettier config",
   "main": "index.json",
   "scripts": {
